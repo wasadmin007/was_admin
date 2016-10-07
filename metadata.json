@@ -1,0 +1,15 @@
+{
+  "name": "ibm-was_admin",
+  "version": "0.1.0",
+  "author": "praveenmjeendru",
+  "summary": "WebSphere Install configure",
+  "license": "Apache-2.0",
+  "source": "github",
+  "project_page": null,
+  "issues_url": "EM team",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
